@@ -1,0 +1,6 @@
+{
+  "name": "StrongFrag",
+  "description": "Site vitrine moderne, luxueux et haut de gamme. Parfums d'exception et huiles douces parfumées signés StrongFrag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
